@@ -14,5 +14,6 @@
     <li>Yury Garagulya</li>
 	<li>Alexander Tykhonchuk</li>
 	<li>Vitaly Bookreev</li>
+	<li>Eugene Chernomor</li>	
 </body>
 </html>
